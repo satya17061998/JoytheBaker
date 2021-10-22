@@ -1,0 +1,70 @@
+﻿@model List<CakeClientTeam2.ProjModel.Cart>
+
+
+@{ ViewData["Title"] = "Customer Cart"; }
+
+<style>
+    body {
+        background-image: url('../../image/bg-image.jpg');
+        background-repeat: no-repeat;
+        background-position: center; /* Center the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+        background-attachment: fixed;
+    }
+</style>
+
+<h1>Your Cart</h1>
+
+
+<br>
+<br>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Flower
+            </th>
+            <th>
+                Occasion
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Total Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var total = item.ItemPrice * item.Quantity;
+
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Cake.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cake.Occassion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Quantity)
+    </td>
+    <td>
+        &#8377; @Html.DisplayFor(modelItem => total)
+    </td>
+    <td>
+        | <a asp-action="RemoveFromcart" asp-route-id="@item.CartId"><button>Remove from cart</button></a> |
+        <a asp-action="PlaceOrder" asp-route-id="@item.CartId"><button>Place Order</button></a> |
+        @*<a asp-action="AddToCart" asp-route-id="@item.CartId"><button>Add to Cart</button></a>*@
+    </td>
+</tr>}
+
+    </tbody>
+</table>

@@ -1,0 +1,225 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Cake store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css"
+          rel="stylesheet" type='text/css'>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+
+    <style>
+        #nav1, #foo1 {
+            background-color: #ff7f50;
+        }
+
+        .bord1 {
+            border-bottom: 3px solid #000;
+        }
+
+        .bord2 {
+            border-top: 3px solid #000;
+        }
+
+        #footxt {
+            color: #000;
+        }
+
+
+
+        /* Navbar container */
+        /*.navbar {*/
+        /*overflow: hidden;*/
+        /*background-color: #f9f7f5;
+            font-family: Arial;
+        }*/
+
+        /* Links inside the navbar */
+        /*.navbar a {
+                float: left;
+                font-size: 16px;
+                color: black;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }*/
+
+        /* The dropdown container */
+        .dropdown {
+            float: left;
+            /*overflow: hidden;*/
+        }
+
+            /* Dropdown button */
+            .dropdown .dropbtn {
+                font-size: 16px;
+                border: none;
+                outline: none;
+                color: black;
+                padding: 14px 16px;
+                background-color: inherit;
+                font-family: inherit; /* Important for vertical align on mobile phones */
+                margin: 0; /* Important for vertical align on mobile phones */
+            }
+
+
+
+        /* Dropdown content (hidden by default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: white;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            /* Links inside the dropdown */
+            .dropdown-content a {
+                float: none;
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+                text-align: left;
+            }
+
+                /* Add a grey background color to dropdown links on hover */
+                .dropdown-content a:hover {
+                    background-color: #ddd;
+                }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+
+
+
+
+</head>
+<body>
+    <header>
+        <nav id="nav1" class="bord1 navbar navbar-expand-sm navbar-toggleable-sm box-shadow mb-3">
+            <div class="container">
+
+                @if (ViewBag.Username != null)
+                {
+                    <a asp-controller="Sitehome" asp-action="Home"><img src="~/images/logoflowerstore.png" style="height: 70px; width: 120px;"></a>
+                }
+                else
+                {
+                    <a asp-controller="Login" asp-action="Login"><img src="~/images/logoflowerstore.png" style="height: 70px; width: 120px;"></a>
+                }
+
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+
+                        @if (ViewBag.Username == null)
+                        {
+                    <li class="nav-item">
+                        <a style="color: black; margin-left: 40px;" class="nav-link" asp-area="" asp-controller="Register" asp-action="Register">Register</a>
+                    </li>}
+
+                        <li class="nav-item">
+                            <a style="color: black; margin-left: 40px;" class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+
+                        @if (ViewBag.Username != null && ViewBag.Usertype == "User")
+                        {
+                   
+
+                                    <li class="nav-item">
+                                        <a style="color: black; margin-left: 40px;" class="nav-link" asp-area="" asp-controller="Cart" asp-action="CustomerCart">
+                                            <i class="fa fa-shopping-cart"></i>
+                                        </a>
+                                    </li>
+                                    }
+
+                     
+
+
+
+
+                        @if (ViewBag.Username != null)
+            {
+                    <div style="margin-right: 20px;" class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <div class="dropdown">
+                                    <button class="dropbtn">
+                                        <i class='fas fa-user-circle'></i>
+
+                                        <i style="height: 18px; width: 18px;" class="fa fa-caret-down"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+
+                                        @if (ViewBag.Username != null && ViewBag.Usertype == "User")
+                                        {
+                                    <a style="margin-left:5px;" class="nav-link" asp-area="" asp-controller="Order" asp-action="YourOrders">
+                                        My Orders
+                                    </a>}
+                else
+                {
+                                    <a style="margin-left:5px;" class="nav-link" asp-area="" asp-controller="Order" asp-action="ViewOrders">
+                                        All Orders
+                                    </a>
+                }
+
+
+                                        <a style="margin-left:5px;" class="nav-link" asp-area="" asp-controller="ManageProf" asp-action="ManageProf">Manage Profile</a>
+                                        <hr>
+
+                                        <a style="margin-left:5px;" class="nav-link" asp-area="" asp-controller="Login" asp-action="Logout">
+                                            Logout
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+            }
+                    
+
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer id="foo1" class="bord2 footer text-muted">
+        <div id="footxt" class="container">
+            &copy; 2021 - FlowerStore - ASP.net MVC and API
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

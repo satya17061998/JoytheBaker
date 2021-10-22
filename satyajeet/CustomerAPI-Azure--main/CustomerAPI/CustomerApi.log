@@ -1,0 +1,150 @@
+INFO  07:38:18 Application started. Press Ctrl+C to shut down.
+INFO  07:38:18 Hosting environment: Development
+INFO  07:38:18 Content root path: D:\CustomerAPI\CustomerAPI
+INFO  07:38:28  Http Get Request for Drug Details by Location and ID
+INFO  07:40:00 Application started. Press Ctrl+C to shut down.
+INFO  07:40:00 Hosting environment: Development
+INFO  07:40:00 Content root path: D:\CustomerAPI\CustomerAPI
+INFO  07:40:09  Http Get Request for Drug Details by Location and ID
+INFO  07:49:14  Http Get Request for Drug Details by Location and ID
+INFO  07:49:14  Http Get Request for Drug Details by Location and ID
+INFO  10:26:52 Application started. Press Ctrl+C to shut down.
+INFO  10:26:52 Hosting environment: Development
+INFO  10:26:52 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI
+INFO  10:27:09 Customer login is invoked
+INFO  11:24:12 REgister customer is invoked
+INFO  11:24:22 Customer login is invoked
+INFO  11:27:42 Application started. Press Ctrl+C to shut down.
+INFO  11:27:42 Hosting environment: Development
+INFO  11:27:42 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI
+INFO  11:28:12 Customer login is invoked
+INFO  11:29:26 Customer login is invoked
+INFO  11:31:07 Application started. Press Ctrl+C to shut down.
+INFO  11:31:07 Hosting environment: Development
+INFO  11:31:07 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI
+INFO  11:38:10 REgister customer is invoked
+INFO  11:39:40 Application started. Press Ctrl+C to shut down.
+INFO  11:39:40 Hosting environment: Development
+INFO  11:39:40 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI
+INFO  11:40:24 REgister customer is invoked
+INFO  11:41:44 REgister customer is invoked
+INFO  11:41:58 Customer login is invoked
+INFO  11:44:51 Customer login is invoked
+INFO  11:46:09 Customer login is invoked
+INFO  11:46:16 Get Customer by 105 is invoked
+INFO  11:46:23 Update is invoked
+INFO  11:46:25 Get Customer by 105 is invoked
+INFO  11:52:00 Application started. Press Ctrl+C to shut down.
+INFO  11:52:00 Hosting environment: Development
+INFO  11:52:00 Content root path: C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI
+INFO  11:53:04 Customer login is invoked
+INFO  11:57:58 Customer login is invoked
+INFO  12:00:49 Customer login is invoked
+INFO  12:01:14 Customer login is invoked
+INFO  12:01:51 Customer login is invoked
+INFO  12:02:12 Customer login is invoked
+INFO  12:05:17 Customer login is invoked
+INFO  12:08:53 Customer login is invoked
+INFO  12:11:17 Customer login is invoked
+INFO  12:13:03 Customer login is invoked
+INFO  12:13:13 Customer login is invoked
+INFO  12:14:46 Get Customer by 102 is invoked
+INFO  05:21:13 Application started. Press Ctrl+C to shut down.
+INFO  05:21:13 Hosting environment: Development
+INFO  05:21:13 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:21:49 Customer login is invoked
+INFO  05:22:21 Customer login is invoked
+INFO  05:24:01 Customer login is invoked
+INFO  05:26:45 Customer login is invoked
+INFO  05:50:23 Customer login is invoked
+INFO  05:55:21 Customer login is invoked
+INFO  05:58:38 Customer login is invoked
+INFO  11:27:05 Customer login is invoked
+INFO  11:35:27 Customer login is invoked
+INFO  11:45:19 REgister customer is invoked
+INFO  11:45:30 Customer login is invoked
+INFO  11:47:44 Customer login is invoked
+INFO  11:10:50 Application started. Press Ctrl+C to shut down.
+INFO  11:10:50 Hosting environment: Development
+INFO  11:10:50 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  11:12:27 Customer login is invoked
+INFO  11:13:06 Customer login is invoked
+INFO  05:08:21 Application started. Press Ctrl+C to shut down.
+INFO  05:08:21 Hosting environment: Development
+INFO  05:08:21 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:08:31 Customer login is invoked
+INFO  05:27:29 Customer login is invoked
+INFO  05:38:04 REgister customer is invoked
+INFO  05:38:14 Customer login is invoked
+INFO  05:50:40 Customer login is invoked
+INFO  10:45:53 Customer login is invoked
+INFO  10:47:12 Customer login is invoked
+INFO  10:48:41 Get Customer by 1 is invoked
+INFO  10:49:41 Customer login is invoked
+INFO  10:50:10 Customer login is invoked
+INFO  10:51:39 Customer login is invoked
+INFO  10:57:32 Customer login is invoked
+INFO  10:58:25 Customer login is invoked
+INFO  11:05:28 Customer login is invoked
+INFO  11:07:31 Customer login is invoked
+INFO  11:07:33 Customer login is invoked
+INFO  11:07:49 Customer login is invoked
+INFO  11:07:57 Customer login is invoked
+INFO  11:09:15 Customer login is invoked
+INFO  11:09:37 Customer login is invoked
+INFO  11:10:00 Customer login is invoked
+INFO  11:10:02 Customer login is invoked
+INFO  11:11:29 Customer login is invoked
+INFO  11:11:32 Customer login is invoked
+INFO  11:14:44 Customer login is invoked
+INFO  11:26:46 Customer login is invoked
+INFO  11:29:22 Customer login is invoked
+INFO  11:41:13 Customer login is invoked
+INFO  12:03:04 REgister customer is invoked
+INFO  09:20:22 REgister customer is invoked
+INFO  09:21:13 Customer login is invoked
+INFO  09:21:28 Customer login is invoked
+INFO  09:21:44 Customer login is invoked
+INFO  09:15:24 Customer login is invoked
+INFO  09:16:13 REgister customer is invoked
+INFO  09:16:28 Customer login is invoked
+INFO  09:28:51 Customer login is invoked
+INFO  09:29:20 Customer login is invoked
+INFO  09:32:38 Customer login is invoked
+INFO  11:24:59 Customer login is invoked
+INFO  11:25:44 Customer login is invoked
+INFO  11:31:36 Customer login is invoked
+INFO  11:35:41 Customer login is invoked
+INFO  11:49:58 Customer login is invoked
+INFO  11:51:18 Customer login is invoked
+INFO  11:52:50 Customer login is invoked
+INFO  11:55:29 Customer login is invoked
+INFO  12:02:18 Customer login is invoked
+INFO  12:05:08 Customer login is invoked
+INFO  12:08:15 Customer login is invoked
+INFO  12:14:01 Customer login is invoked
+INFO  12:15:39 Customer login is invoked
+INFO  12:16:37 Customer login is invoked
+INFO  12:19:16 Customer login is invoked
+INFO  12:19:33 Customer login is invoked
+INFO  12:21:50 Customer login is invoked
+INFO  12:26:08 Customer login is invoked
+INFO  12:30:56 Customer login is invoked
+INFO  12:41:02 Customer login is invoked
+INFO  12:41:11 Customer login is invoked
+INFO  12:58:44 Customer login is invoked
+INFO  12:58:52 Customer login is invoked
+INFO  01:06:51 Customer login is invoked
+INFO  01:10:23 Customer login is invoked
+INFO  01:10:39 Customer login is invoked
+INFO  04:24:23 Customer login is invoked
+INFO  04:44:07 Customer login is invoked
+INFO  04:45:23 Customer login is invoked
+INFO  12:16:17 Application started. Press Ctrl+C to shut down.
+INFO  12:16:17 Hosting environment: Development
+INFO  12:16:17 Content root path: C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI
+INFO  12:16:38 Get Customer by 1 is invoked
+INFO  12:16:56 Get Customer by 101 is invoked
+INFO  04:24:39 Application started. Press Ctrl+C to shut down.
+INFO  04:24:39 Hosting environment: Development
+INFO  04:24:39 Content root path: D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI

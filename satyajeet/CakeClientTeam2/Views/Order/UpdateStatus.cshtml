@@ -1,0 +1,76 @@
+﻿@model CakeClientTeam2.ProjModel.OrderDetail
+
+
+@{ ViewData["Title"] = "UpdateStatus"; }
+
+<style>
+    body {
+        background-image: url('../../image/bg-image.jpg');
+        background-repeat: no-repeat;
+        background-position: center; /* Center the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+        background-attachment: fixed;
+    }
+</style>
+
+<h1>UpdateStatus</h1>
+
+<h4>OrderDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateStatus">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OrderId" class="control-label"></label>
+                <input asp-for="OrderId" readonly="readonly" class="form-control" />
+                <span asp-validation-for="OrderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CakeId" class="control-label"></label>
+                <input asp-for="CakeId" readonly="readonly" class="form-control" />
+                <span asp-validation-for="CakeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerId" class="control-label"></label>
+                <input asp-for="CustomerId" readonly="readonly" class="form-control" />
+                <span asp-validation-for="CustomerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CartId" class="control-label"></label>
+                <input asp-for="CartId" readonly="readonly" class="form-control" />
+                <span asp-validation-for="CartId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Totalprice" class="control-label"></label>
+                <input asp-for="Totalprice" readonly="readonly" class="form-control" />
+                <span asp-validation-for="Totalprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Remark" class="control-label"></label>
+                <input asp-for="Remark" readonly="readonly" class="form-control" />
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentStatus" class="control-label"></label>
+                @Html.DropDownListFor(model => model.PaymentStatus, new List<SelectListItem>
+                                    { new SelectListItem { Text = "Out for Delievery", Value = "Out for Delievery", Selected=true},
+                                  new SelectListItem { Text = "Delievered", Value = "Delievered"},
+                                  new SelectListItem { Text = "Packaging", Value = "Packaging"},
+                                  new SelectListItem { Text = "Dispatched", Value = "Dispatched"},
+
+                                  }, "Select Status Type"
+                , new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PaymentStatus, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

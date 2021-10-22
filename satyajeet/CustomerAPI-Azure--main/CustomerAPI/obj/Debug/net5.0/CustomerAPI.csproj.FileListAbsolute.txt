@@ -1,0 +1,320 @@
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.json
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.exe
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.deps.json
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\ref\CustomerAPI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.pdb
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Humanizer.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.AssemblyReference.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfoInputs.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfo.cs
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CoreCompileInputs.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.Manifest.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.xml
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\CustomerAPI.styles.css
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.RazorTargetAssemblyInfo.cache
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CopyComplete
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.dll
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\ref\CustomerAPI.dll
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.pdb
+D:\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.genruntimeconfig.cache
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.config
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.dll
+D:\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfo.cs
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.xml
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\CustomerAPI.styles.css
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CopyComplete
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.xml
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\CustomerAPI.styles.css
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CopyComplete
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI\obj\Debug\net5.0\CustomerAPI.genruntimeconfig.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.xml
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\CustomerAPI.styles.css
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CopyComplete
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\ref\CustomerAPI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.genruntimeconfig.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\log4net.config
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\appsettings.json
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.exe
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.deps.json
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\ref\CustomerAPI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\CustomerAPI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Humanizer.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\log4net.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.AssemblyReference.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfoInputs.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.AssemblyInfo.cs
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CoreCompileInputs.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.Manifest.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\staticwebassets\CustomerAPI.StaticWebAssets.xml
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\CustomerAPI.styles.css
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.RazorTargetAssemblyInfo.cache
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.csproj.CopyComplete
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\ref\CustomerAPI.dll
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.pdb
+D:\sl\CakeAPITeam2\CustomerAPI-Azure--main\CustomerAPI\obj\Debug\net5.0\CustomerAPI.genruntimeconfig.cache

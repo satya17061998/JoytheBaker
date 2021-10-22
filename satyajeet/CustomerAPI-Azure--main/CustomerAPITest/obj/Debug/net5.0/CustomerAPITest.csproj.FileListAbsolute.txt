@@ -1,0 +1,584 @@
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.deps.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.Development.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.exe
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.exe
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.core.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.deps.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.dev.json
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ref\CustomerAPITest.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.framework.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.pdb
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.AssemblyReference.cache
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfoInputs.cache
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfo.cs
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CoreCompileInputs.cache
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CopyComplete
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.dll
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\ref\CustomerAPITest.dll
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.pdb
+D:\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.genruntimeconfig.cache
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.config
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.dll
+D:\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.exe
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.deps.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.dev.json
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.AssemblyReference.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfoInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfo.cs
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CopyComplete
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator.KANINI-LTP-459\Downloads\flowerproj api\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.exe
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\testhost.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.deps.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CopyComplete
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.genruntimeconfig.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\log4net.config
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\testhost.exe
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\testhost.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.deps.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.exe
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.deps.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.runtimeconfig.dev.json
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\log4net.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\bin\Debug\net5.0\CustomerAPI.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.AssemblyInfo.cs
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.csproj.CopyComplete
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\ref\CustomerAPITest.dll
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.pdb
+C:\Users\Administrator\source\ABCD\CustomerAPI-Azure--main\CustomerAPITest\obj\Debug\net5.0\CustomerAPITest.genruntimeconfig.cache

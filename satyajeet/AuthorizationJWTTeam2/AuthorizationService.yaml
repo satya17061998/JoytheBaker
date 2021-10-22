@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authorizationdeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AuthorizationService
+  template:
+    metadata:
+      labels:
+        app: AuthorizationService
+    spec:
+      containers:
+      - name: authrepos
+        image: mailorderpharmacy.azurecr.io/authrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: asconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authorizationservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: AuthorizationService
